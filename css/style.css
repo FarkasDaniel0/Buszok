@@ -1,0 +1,97 @@
+.lap_alap{
+    background-color: rgb(101, 91, 84);
+    height: 2000px;
+    width: 1250px;
+    margin: auto;
+}
+
+#navcontainer ul {
+    float:center;
+    width:100%;
+    margin:0;
+    padding:0;
+    font-size:25px;
+    color:#fff;
+    background:lightgrey;
+    border: gray 2px solid ;
+    }
+    #navcontainer ul li {
+    display:inline;
+    }
+    .Turista{
+        margin-left: 100px;
+    }
+    a{
+        color: black;
+        text-decoration: none;
+    }
+    a:active{
+        color: gray;
+
+    }
+    a:hover{
+        color: #fff;
+    }
+    .lap_varosi{
+        background-color: rgb(0, 133, 188);
+    height: 2000px;
+    width: 1250px;
+    margin: auto;
+    }
+    .varosi_szoveg{
+        color: white;
+    }
+    .lap_varosi h1{
+        border-bottom: white double 4px;
+        margin-left: 10px;
+        width: 500px;
+
+    }
+    .varosi_szoveg p{
+        color: white;
+        margin-left:10px ;
+        font-size: 20px;
+    }
+    .lap_tavolsagi{
+        background-color: rgb(247, 167,0);
+        height: 2000px;
+        width: 1250px;
+        margin: auto;
+    }
+    .lap_tavolsagi h1{
+        border-bottom: black double 4px;
+        margin-left: 10px;
+        width: 500px;
+        color: black;
+
+    }
+    .lap_tavolsagi p{
+        color: black;
+        margin-left:10px ;
+        font-size: 20px;
+    }
+
+    .turista_szoveg{
+        background-color: rgb(203,213,214);
+        height: 2000px;
+        width: 1250px;
+        margin: auto;
+    }
+    .turista_szoveg h1{
+        border-bottom: black double 4px;
+        margin-left: 10px;
+        width: 500px;
+        color: black;
+
+    }
+    .turista_szoveg p{
+        color: black;
+        margin-left:10px ;
+        font-size: 20px;
+    }
+    .lap_tura{
+        background-color: rgb(203,213,214);
+    height: 2000px;
+    width: 1250px;
+    margin: auto;
+    }
